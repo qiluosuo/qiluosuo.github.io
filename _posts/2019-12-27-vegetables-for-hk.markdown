@@ -4,7 +4,7 @@ title:      "供港蔬菜史"
 subtitle:  
 date:       2019-12-27 19:33:12
 author:     "七落索"
-header-img: "img/vage.jpg"
+header-img: "img/vages.jpg"
 catalog: true
 tags:
     - 消失的文字
