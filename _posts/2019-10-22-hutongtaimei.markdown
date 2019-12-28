@@ -4,7 +4,7 @@ title:      "胡同台妹现象"
 subtitle:  
 date:       2019-10-22 17:18:01
 author:     "七落索"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post-bg-2016.jpg"
 catalog: true
 tags:
     - 消失的文字
