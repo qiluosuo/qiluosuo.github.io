@@ -4,7 +4,7 @@ title:      "最大的格局"
 subtitle:  
 date:       2019-11-9 14:32:01
 author:     "七落索"
-header-img: "img/book-bg1.jpg"
+header-img: "img/home-bg1.jpg"
 catalog: true
 tags:
     - 消失的文字
