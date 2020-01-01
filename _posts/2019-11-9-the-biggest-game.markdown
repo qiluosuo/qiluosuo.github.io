@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "最大的格局"
-subtitle:  
+subtitle:  " \"公平、正义\""
 date:       2019-11-9 14:32:01
 author:     "七落索"
 header-img: "img/home-bg1.jpg"
