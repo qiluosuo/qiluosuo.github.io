@@ -2,7 +2,7 @@
 layout:     post
 title:      "六七暴动"
 subtitle:  
-date:       2019-12-29 22:13:03
+date:       2019-11-14 20:11:03
 author:     "七落索"
 header-img: "img/677.jpg"
 catalog: true
