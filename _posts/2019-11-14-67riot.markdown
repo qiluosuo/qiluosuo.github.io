@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "六七暴动"
-subtitle:  
+subtitle:  " \"历史不可捏造\""
 date:       2019-11-14 20:11:03
 author:     "七落索"
 header-img: "img/677.jpg"
