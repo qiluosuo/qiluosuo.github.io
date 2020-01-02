@@ -5,7 +5,7 @@ subtitle:  " \"现象依然存在，风气已经刮向香港。\""
 date:       2019-10-22 17:18:01
 author:     "七落索"
 header-img: "img/post-bg-2016.jpg"
-catalog: true
+catalog: false
 tags:
     - 消失的文字
 ---

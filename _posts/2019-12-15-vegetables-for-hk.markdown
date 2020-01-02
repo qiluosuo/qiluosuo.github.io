@@ -5,7 +5,7 @@ subtitle:  " \"致敬劳动人民\""
 date:       2019-12-15 11:23:01
 author:     "七落索"
 header-img: "img/vages.jpg"
-catalog: true
+catalog: false
 tags:
     - 消失的文字
 ---
