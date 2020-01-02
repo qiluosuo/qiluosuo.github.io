@@ -5,7 +5,7 @@ subtitle:  " \"历史不可捏造\""
 date:       2019-11-14 20:11:03
 author:     "七落索"
 header-img: "img/677.jpg"
-catalog: true
+catalog: false
 tags:
     - 消失的文字
 ---
