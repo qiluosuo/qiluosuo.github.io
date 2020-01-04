@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "六七暴动"
-subtitle:  " \"历史不可捏造\""
+title:      "香港1967反英抗暴斗争，和中央政府无关"
+subtitle:  " \"毛爷爷不背锅，周总理更不背锅\""
 date:       2019-11-14 20:11:03
 author:     "七落索"
 header-img: "img/677.jpg"
