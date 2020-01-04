@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "最大的格局"
-subtitle:  " \"公平、正义\""
+title:      "休想在中国的土地上挑战公平正义！"
+subtitle:  " \"要有维护社会公平正义的勇气\""
 date:       2019-11-9 14:32:01
 author:     "七落索"
 header-img: "img/home-bg1.jpg"
