@@ -4,7 +4,7 @@ title:      "“生命之水”——东江水供港的真实历史"
 subtitle:  
 date:       2020-1-8 14:32:01
 author:     "七落索"
-header-img: "img/home-bg1.jpg"
+header-img: "img/ss1.jpg"
 catalog: true
 tags:
     - 消失的文字
